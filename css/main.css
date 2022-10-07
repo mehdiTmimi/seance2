@@ -1,0 +1,16 @@
+.btn{
+    border: 0px;
+    background-color: lightblue;
+}
+.valid{
+    border: 1px solid lightgreen;
+}
+.invalid{
+    border: 1px solid red;
+}
+input:focus{
+    outline: none;
+}
+.errorMessage{
+    color:red;
+}
